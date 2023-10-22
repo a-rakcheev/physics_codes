@@ -1,0 +1,6 @@
+x1yz
+x1zy
+xy1z
+xz1y
+y1xz
+yx1z

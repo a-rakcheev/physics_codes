@@ -1,0 +1,17 @@
+xyzx
+x1yz
+x1zy
+xxyz
+xxzy
+xy1z
+xyxz
+xz1y
+xzxy
+yyzy
+y11z
+y1xz
+yx1z
+yxxz
+yyyz
+yzzz
+zyzz
