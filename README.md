@@ -15,7 +15,7 @@ The codes are mainly related to my research in the are of quantum dynamics and c
 
 ## Software
 - Python
-- Scientific Python (NumPy, SciPy, MAtplotlib, Numba)
+- Scientific Python (NumPy, SciPy, Matplotlib, Numba)
 - Mathematica
 
 ## Numerical methods
