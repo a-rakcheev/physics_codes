@@ -1,5 +1,3 @@
---WORK IN PROGRESS--
-
 # Physics codes
 ### Codes writted during my PhD in the [group of Andreas Läuchli](https://www.psi.ch/en/ltc/computergestutzte-physik) at the University of Innsbruck and the Paul Scherrer Institute.
 
